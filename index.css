@@ -1,0 +1,35 @@
+body{
+    font-size: 1.2rem;
+    padding-top: 1px;
+    min-height: 100vh;
+    background: -o-linear-gradient(281deg, #42efeaf8 0%, #7544a9 100%);
+    background: linear-gradient(169deg, #33b6c0 0%, #7c51aa 100%);
+    line-height: 1.6;
+}
+
+
+
+.carousel-inner{
+    width: 1480px;
+    height: 700px;
+    padding: 10px;
+    
+ 
+}
+.carousel-item  {
+    height: 40rem;
+    max-width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
